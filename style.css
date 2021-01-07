@@ -19,9 +19,24 @@
     width: 100%;
     height: 250px;
 }
+.menupont{
+    background: none;
+    border: none;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+form{
+    padding-top: 15px;
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid black;
+}
+form:hover{
+    background-color: lightgray;
+}
 #tartalom{
     float: right;
-    width: 690px;
+    width: 640px;
     height: 600px;
 }
 .clear{
