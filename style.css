@@ -22,7 +22,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 250px;
+    height: 300px;
 }
 #lotokor{
     margin: auto;
@@ -33,6 +33,7 @@ body{
     height: 170px;
 }
 #korirat{
+    font-weight: bolder;
     color: white;
     font-size: 50px;
     margin: 0;
