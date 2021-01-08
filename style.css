@@ -53,7 +53,7 @@ body{
     padding-bottom: 28px;
     text-align: left;
     width: 90%;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid black;
     margin-left: 15px;
 }
 form:hover{
