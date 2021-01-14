@@ -5,3 +5,4 @@ majd akkor utána én is neki állok
 Nyisd meg, h működjön!!
 megnyitottam nyugi
 Köszi, h megnyitottad Boros!
+Írok mert valamiért elvileg nem jó!
