@@ -93,5 +93,10 @@ h3{
 
 #grafikon1{
     border-radius: 0px;
-    width: 90%;
+    width: 80%;
+}
+
+#grafikon2{
+    width: 100%;
+    border-radius: 0px;
 }
