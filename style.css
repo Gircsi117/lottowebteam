@@ -100,3 +100,9 @@ h3{
     width: 100%;
     border-radius: 0px;
 }
+
+#kepek{
+    border-radius: 0px;
+    width: 250px;
+    float: right;
+}
