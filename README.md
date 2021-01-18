@@ -13,3 +13,4 @@ Excelben különböző függvényekkel kerestem ki a megfelelő adatot.
 >>>>>>> 78dff638c33f42bb1b9cb1c55cdcbeb5ba2d49e5
 
 Az oldalra feltöltött képek pozícióját, egymástól való távolságait és méreteit beállítottam.
+Számok előfordulása grafikon létrehozása és elhelyezése az image mappában.
